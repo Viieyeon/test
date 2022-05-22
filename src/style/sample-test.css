@@ -1,0 +1,21 @@
+body{
+    height: 1600px;
+}
+
+main{
+    padding-left: 200px;
+    padding-top: 124px;
+}
+
+p{
+    margin-top: 64px;
+}
+
+.img-example{
+    margin-top: 50px;
+}
+
+.bt5{
+    margin-top: 150px;
+    width: 250px;
+}
